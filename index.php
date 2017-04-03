@@ -41,7 +41,7 @@ include 'header.php';
            				<p>
            				<strong>Y lo mejor!!</strong>
            				<br>
-           				es que puedes pagar con tu tarjeta de credito
+           				es que puedes pagar con tu tarjeta de credito..
            				</p>
            			</article>
            </div>
