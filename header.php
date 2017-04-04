@@ -8,6 +8,7 @@
 	<link rel="stylesheet" href="sass/flexboxgrid.min.css">
 	<link rel="stylesheet" href="iconos/fonts/icon.css">
 	<!--<link rel="stylesheet" href="css/bootstrap.min.css">-->
+	<link rel="stylesheet" href="iconos/fonts/font-awesome.css">
 	
 
 	<title>Aqueos S.A.S</title>
